@@ -1,13 +1,11 @@
-# Sample Plugin (v1.0 alpha)
-Author: **Vector 35 LLC**
+# Type Importer (v1.0 alpha)
+Author: **Peter Fillmore**
 
-_This is a short description meant to fit on one line._
+_Quick script for quickly importing types from pasted source code_
 
 ## Description:
 
-This is a longer description meant for a sample plugin that demonstrates the metadata format for Binary Ninja plugins.
-
-The forthcoming plugin installer will be able to parse these files automatically to allow easy selection and installation. 
+As the Types view does not let you paste source code into it; i threw this together to do this. Simple copy code and paste it into the text box and hit ok. You might need to clean the pasted code up so it fits binjas defaults
 
 ## Minimum Version
 
@@ -21,10 +19,6 @@ This plugin requires the following minimum version of Binary Ninja:
 
 The following dependencies are required for this plugin:
 
- * pip - array, of, pip, dependencies
- * installers - https://bogus-domain/this-package.exe
- * other - The sample plugin requires [this random package](https://bogus-domain/this-package/) be installed.
- * apt - apt, packages
 
 
 ## License
